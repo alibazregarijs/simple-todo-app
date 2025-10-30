@@ -15,11 +15,11 @@ A modern, full‑featured list management application built with Next.js 14, Rea
 - **Accessibility** – Screen reader support and semantic HTML
 
 ## 🛠 Tech Stack
-- Framework: Next.js 14 with App Router
+- Framework: Next.js 16 with App Router
 
-- UI Library: React 18
+- UI Library: React 19.2
 
-- Styling: Tailwind CSS v3
+- Styling: Tailwind CSS v4
 
 - Components: shadcn/ui
 
